@@ -1,0 +1,15 @@
+.title {
+color: blue;
+text-align: center;
+background-color: red;
+font-size: 50px;
+margin: -8px;
+}
+
+h2 {
+color: yellow;
+background-color: brown;
+text-indent: 50px;
+text-align: justify;
+margin: 10px;
+}
